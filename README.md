@@ -9,5 +9,5 @@ perpendicular to the required line, and θ is its inclination. The true paramete
 get maximum votes from the line points, and can be found with a Hough accumulation array.
 
 Here is the final output but please refer to the notebook as it's well documnetetd and contains all
-the steps and implementation details:<br>
+the steps and implementation details:<br><br>
 ![image](https://user-images.githubusercontent.com/61145262/205763203-c7567592-8ecb-4fa4-99b0-ac410e55c70c.png)
