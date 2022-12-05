@@ -1,2 +1,9 @@
 # Road-Lane-Detection
-Road Lane Detection Using Hough Transform (Computer Vision assignment)
+
+The objective of this assignment is the detection of road lanes in an image using Hough Transform.
+
+The Hough transform can be used to determine the parameters of a line when a number of
+points that fall on it are known. The normal form of a line can be described with the following
+equation: x cos θ + y sin θ = ρ where ρ is the length of a line that starts from the origin and
+perpendicular to the required line, and θ is its inclination. The true parameters ρ and θ will
+get maximum votes from the line points, and can be found with a Hough accumulation array.
